@@ -47,4 +47,4 @@ Returns:
 
 ### New API endpoints...
 
-We have built two new API endpoints, for `actor` and `repository` data. We will publish these here soon for review and refinement, prior to a planned inclusion in a near-future version of AtoM. 
+We have built two new API endpoints in AtoM, for `actor` and `repository` data.  Links will be added here once those are published.  We intend to offer them to the AtoM project for inclusion in a future release of AtoM.
