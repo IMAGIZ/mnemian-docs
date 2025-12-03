@@ -1,4 +1,4 @@
-This work-in-progress documentation repository contains notes about how Mnemian™ handles data retrieved from AtoM. 
+This work-in-progress documentation repository contains notes about how Mnemian™ (https://mnemian.net) handles data retrieved from AtoM. 
 
 ## Documentation Folders
 - `/mapping-atom-to-ric/` contains an overview of our methodology, and individual files detailing how we process each field returned by AtoM API endpoints. 
